@@ -12,7 +12,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableFeignClients
 public class OrderMain84 {
     public static void main(String[] args) {
-        System.out.println("hotfix");
+        System.out.println("start");
         SpringApplication.run(OrderMain84.class,args);
     }
 }
